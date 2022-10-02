@@ -1,0 +1,7 @@
+pip == 22.2.2
+numpy
+pandas
+streamlit
+sentence_transformers
+
+
